@@ -1,0 +1,16 @@
+D:\Bangaraju C Sharp\Testing\Testing\bin\Debug\net5.0\Testing.exe
+D:\Bangaraju C Sharp\Testing\Testing\bin\Debug\net5.0\Testing.deps.json
+D:\Bangaraju C Sharp\Testing\Testing\bin\Debug\net5.0\Testing.runtimeconfig.json
+D:\Bangaraju C Sharp\Testing\Testing\bin\Debug\net5.0\Testing.runtimeconfig.dev.json
+D:\Bangaraju C Sharp\Testing\Testing\bin\Debug\net5.0\Testing.dll
+D:\Bangaraju C Sharp\Testing\Testing\bin\Debug\net5.0\ref\Testing.dll
+D:\Bangaraju C Sharp\Testing\Testing\bin\Debug\net5.0\Testing.pdb
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\Testing.csproj.AssemblyReference.cache
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\Testing.AssemblyInfoInputs.cache
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\Testing.AssemblyInfo.cs
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\Testing.csproj.CoreCompileInputs.cache
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\Testing.dll
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\ref\Testing.dll
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\Testing.pdb
+D:\Bangaraju C Sharp\Testing\Testing\obj\Debug\net5.0\Testing.genruntimeconfig.cache
